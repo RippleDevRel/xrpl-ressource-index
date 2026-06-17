@@ -10,8 +10,10 @@ AI tools, skills, and integrations for XRPL development.
 
 | Resource | Description |
 |---|---|
-| [XRPL Skills & XRPL MCP](https://xrpl.org/resources/dev-tools/ai-tools) | Official XRPL AI tools — skills and MCP server |
-| [XRPL Agentic Transactions](https://xrpl.org/docs/agents/agentic-transactions) | Docs for building autonomous agents on XRPL |
+| [XRPL AI Starter Kit Overview](https://ripple.com/insights/xrpl-ai-starter-kit/) | Full overview : MCP server, Claude Wallet & Payment skills, x402 |
+| [XRPL Skills & XRPL MCP](https://xrpl.org/resources/dev-tools/ai-tools) | Official XRPL AI tools: skills and MCP server |
+| [Agentic Transactions — Reference Hub](https://xrpl.org/docs/agents/agentic-transactions) | Reference docs for building autonomous agents on XRPL |
+| [Getting Started with Agentic Transactions](https://xrpl.org/docs/agents/getting-started-with-agentic-transactions) | 30-min tutorial to get started with agentic transactions |
 | [XRPL Docs (LLM-friendly)](https://xrpl.org/docs) | XRPL documentation optimized for AI/LLM consumption |
 | [Context7 for XRPL](https://context7.com/?q=xrpl) | Always up-to-date XRPL context for AI coding tools |
 | [Open Wallet Standard](https://openwallet.sh/) | Open standard for wallet interoperability |
