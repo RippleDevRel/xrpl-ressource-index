@@ -20,3 +20,9 @@ Templates, quickstarts, and code samples to start building on XRPL fast.
 |---|---|
 | [Getting Started with Foundry](https://github.com/RippleDevRel/xrpl-evm-quickstart-foundry) | Deploy your first Solidity contract using Foundry |
 | [Getting Started with Hardhat](https://github.com/maximedgr/xrpl-evm-quickstart-hardhat) | Deploy your first Solidity contract using Hardhat |
+
+## Video & Community
+
+| Resource | Description |
+|---|---|
+| [XRPL Commons YouTube](https://www.youtube.com/@XRPLCommons) | Tutorials, talks, and community content from XRPL Commons |
